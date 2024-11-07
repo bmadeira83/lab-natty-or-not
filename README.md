@@ -5,7 +5,9 @@
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa "ChatGPT" para roteirização;
+
 IA Generativa "Pixlr" para criação de imagens;
+
 IA Generativa "Microsoft Copilot" para criação de imagens
 
 ## 🧐 Processo de Criação
